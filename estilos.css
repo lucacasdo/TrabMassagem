@@ -1,0 +1,43 @@
+.superior {
+    margin-left: 1300px;
+}
+
+
+.carrosel {
+    background-color: aqua;
+    width: 935px;
+    height: 520px;
+    border-radius: 20px;
+    overflow: hidden;
+    position: absolute;
+    transform: translate(-50%, -50%);
+    top: 60%;
+    left: 50%
+    
+}
+
+.margemtur {
+    margin-top: 600px;
+    
+}
+
+ul {
+    background-color: aqua;
+}
+
+.container {
+    margin-left: 325px;
+}
+
+.margemdep {
+    margin-top: 100px;
+}
+
+.textaomarg {
+    margin-right: 500px
+}
+.localizasgo {
+    margin-right: 600px;
+    margin-bottom: 500px;
+
+}
